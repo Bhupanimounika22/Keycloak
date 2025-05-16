@@ -44,12 +44,12 @@ Password: admin123
 6. Celebrate! 🎉 (or configure realms, clients, users… whatever suits your mood)
 
    ⚙️ Admin Credentials
-          Component	Value
-          Admin User	admin
-          Admin Pass	admin123
-          DB Name	keycloak
-          DB User	keycloak
-          DB Pass	keycloak123
+   Component	Value
+   Admin User	admin
+   Admin Pass	admin123
+   DB Name	keycloak
+   DB User	keycloak
+   DB Pass	keycloak123
 
 (Feel free to change these in the docker-compose.yml — unless you like living on the edge 😈)
  
